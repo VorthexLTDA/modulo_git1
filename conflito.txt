@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olhá, tudo bem
+=======
+olhha, tudo bem
+>>>>>>> branch-b
